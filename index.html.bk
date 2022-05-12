@@ -1,0 +1,498 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>EXO | FitBand</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/magnific-popup.css" />
+		<link rel="stylesheet" href="assets/css/animations.css" type="text/css">
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<script src="https://use.fontawesome.com/d241b3e010.js"></script>
+		<script src='https://www.google.com/recaptcha/api.js?hl=es-419'></script>
+		<link href="https://fonts.googleapis.com/css?family=Raleway|Roboto+Condensed" rel="stylesheet"
+		<link rel="shortcut icon" href="favicon.ico" />
+
+		<!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
+        <script type="text/javascript">
+        //<![CDATA[
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-80499345-1', 'auto');
+
+			ga('send', 'pageview');
+
+        //]]>
+        </script>
+        <!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<div class="contain">
+
+					<!-- Logo -->
+						<img class="logo" src="images/logo.png" alt="">
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="#intro">INICIO</a></li>
+								<li><a href="#funciones">FUNCIONES</a></li>
+								<li><a href="#aplicaciones">APLICACIONES</a></li>
+								<li><a href="#especificaciones">ESPECIFICACIONES</a></li>
+								<li><a href="#contacto">CONTACTO</a></li>
+								<li><a href="#manual" class="manual">MANUAL DE USUARIO</a></li>
+							</ul>
+						</nav>
+
+				</div>
+				<div id="menu-mobile" class="topNavigation">
+
+					<ul>
+						<li><a href="#intro">INICIO</a></li>
+						<li><a href="#funciones">FUNCIONES</a></li>
+						<li><a href="#aplicaciones">APLICACIONES</a></li>
+						<li><a href="#especificaciones">ESPECIFICACIONES</a></li>
+						<li><a href="#contacto">CONTACTO</a></li>
+						<li><a href="#manual" class="manual">MANUAL DE USUARIO</a></li>
+					</ul>
+
+			    </div>
+			    <div>
+					<a href="#menu" class="box-shadow-menu">
+
+	        			</a>
+				</div>
+			</header>
+
+		<!-- Intro -->
+			<section id="intro">
+				<div class="contain row">
+					<div class="col-md-12 text-center box-smart">
+						<div class="smarts-all">
+							<img class="text-intro" src="images/texto-intro.png" alt="">
+							<div class="animatedParent smarts">
+								<img class="animated bounceInDown slowest" src="images/e10.png" alt="">
+							</div>
+
+							<div class="animatedParent smarts">
+								<img class="animated bounceInDown slower" src="images/e12.png" alt="">
+							</div>
+						</div>
+						<a class="descarga" href="#"><img src="images/descarga.png" alt=""> <div class="text-desc">DESCARGA LA APP PARA<br>TU SISTEMA OPERATIVO</div>
+						</a>
+					</div>
+				</div>
+			</section>
+
+			<section id="funciones" class="row">
+				<div class="contain">
+					<div class="col-md-12 text-center">
+						<h2 class="funciones-titu">Brazalete Inalámbrico de <strong> Actividad <span class="red">+</span> Ritmo Cardíaco</strong></h2>
+						<div class="fun">
+							<div class="funciones-box">
+								<img src="images/distancias.png" alt="">
+								<p class="funcion-texto">DISTANCIAS</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/sedentarismo.png" alt="">
+								<p class="funcion-texto">SEDENTARISMO</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/calorias.png" alt="">
+								<p class="funcion-texto">CALORÍAS</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/fechahora.png" alt="">
+								<p class="funcion-texto">FECHA Y HORA</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/alarmas.png" alt="">
+								<p class="funcion-texto">ALARMAS</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/antilost.png" alt="">
+								<p class="funcion-texto">ANTI-LOST</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/ritmocardiaco.png" alt="">
+								<p class="funcion-texto">RITMO CARDÍACO</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/podometro.png" alt="">
+								<p class="funcion-texto">PODOMETRO</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/monitorsueño.png" alt="">
+								<p class="funcion-texto">MONITOREO DE SUEÑO</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/selfieremota.png" alt="">
+								<p class="funcion-texto">SELFIE REMOTA</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/alertallamadas.png" alt="">
+								<p class="funcion-texto">ALERTA DE LLAMADAS</p>
+							</div>
+							<div class="funciones-box">
+								<img src="images/boton-antipanico.png" alt="">
+								<p class="funcion-texto">BOTÓN ANTIPÁNICO*</p>
+							</div>
+						</div>
+						<p class="asterisc">* Disponible únicamente en el modelo EXO Smart FitBAND e12 en dispositivos Android 4.4.4 o superior</p>
+					</div>
+				</div>
+			</section>
+
+			<section id="video" class="row">
+				<div class="contain">
+					<div class="col-md-12 text-center">
+						<iframe class="video-in" width="100%" height="485" src="https://www.youtube.com/embed/6mWRshLqocc?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+					</div>
+				</div>
+			</section>
+
+			<section id="hrm" class="row">
+				<div class="contain">
+					<div class="col-md-6">
+						<h3 class="hrm-titu">HRM</h3>
+						<p class="hrm-texto">Monitoree el rítmo de su corazón en forma efectiva y planee razonablemente sus actividades</p>
+						<img class="hr-gif" src="images/hr.gif" alt="">
+					</div>
+					<div class="col-md-6">
+
+					</div>
+				</div>
+			</section>
+
+			<section id="alertas" class="row">
+				<div class="contain">
+					<div class="col-md-6">
+						<img class="alerta-gif" src="images/mensajes.gif" alt="">
+					</div>
+					<div class="col-md-6">
+						<div class="alertas-box">
+							<h3 class="alerta-titu">Alertas</h3>
+							<p class="alerta-texto">de alarma, llamadas, sedentarismo, etc. por medio de una vibración. Además: SMS, Whatsapp, Facebook, Instagram y Twitter</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="boton" class="row">
+				<div class="contain">
+					<div class="col-md-6">
+						<h3 class="hrm-titu">Botón<br>Antipánico</h3>
+						<p class="hrm-texto">Activa una alerta en el celular que realiza una llamada o envía un mensaje programado a cinco contactos seleccionados con la posición GPS</p>
+						<p class="boton-texto">Disponible únicamente en el modelo EXO Smart FitBAND e12 en dispositivos Android 4.4.4 o superior</p>
+					</div>
+					<div class="col-md-6">
+
+					</div>
+				</div>
+			</section>
+
+			<section id="aplicaciones" class="row">
+				<div class="contain">
+					<h2 class="sincro"><span>EXO Smart Fit App</span><br>Sincronización por Bluetooth</h2>
+					<div class="col-md-4 text-center animatedParent">
+						<img class="animated bounceInDown slow" src="images/spanky.png" alt="">
+					</div>
+					<div class="col-md-4">
+						<h5 class="titu-aplica">REGISTRO DE ACTIVIDADES</h5>
+						<p class="aplica-texto">Registro diario de actividades, puede chequearlo diariamente, incluye pasos, distancia y calorías consumidas, a través de la aplicación.</p>
+						<h5 class="titu-aplica">MONITOREO DE SUEÑO</h5>
+						<p class="aplica-texto">El dispositivo es capaz de reconocer automáticamente su estado y el seguimiento de todo el progreso del sueño con el análisis de sueño profundo, ligero y horas de sueño.</p>
+						<a class="aplica_button" href="https://play.google.com/store/apps/details?id=com.exo.fit" target="_blank">Descargá la APP para Android</a>
+						<div class="play-box animatedParent">
+							<a href="https://play.google.com/store/apps/details?id=com.exo.fit" target="_blank"><img class="play animated bounceInLeft slow" src="images/Play_Store.png" alt=""></a>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<h5 class="titu-aplica">ANTI-LOST</h5>
+						<p class="aplica-texto">Cuando el smartphone se encuentra lejos del rango de conexión Bluetooth (más de 5 mts.) el dispositivo vibra.</p>
+						<h5 class="titu-aplica">CONTROL REMOTO DE CÁMARA</h5>
+						<p class="aplica-texto ap2">El dispositivo puede disparar remotamente la toma de una fotografía.</p>
+						<a class="aplica_button" href="https://play.google.com/store/apps/details?id=com.exo.fit" target="_blank">Descargá la APP para iOS</a>
+						<div class="play-box animatedParent">
+							<a href="https://play.google.com/store/apps/details?id=com.exo.fit" target="_blank"><img class="play animated bounceInLeft slow" src="images/app-store.png" alt=""></a>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="especificaciones" class="row">
+				<div class="contain">
+					<h2 class="espec-titu">Especificaciones Técnicas</h2>
+					<h4 class="titu-fit">EXO Smart FitBAND e10</h4>
+					<div class="col-md-4">
+						<h5 class="h5-espec">ESPECIFICACIONES</h5>
+						<p class="p-espec"><span>Modelo:</span> EXO Smart FitBAND e10</p>
+						<p class="p-espec"><span>Compatible con:</span> IOS 7.1 o posterior  |  Android 4.4 o posterior</p>
+						<p class="p-espec"><span>Funciones:</span> RTC, monitor de ritmo cardíaco, podómetro de pasos, calorías quemadas, tracking de distancia, monitor de sueño, alerta de llamadas y redes sociales, alarma, anti-pérdida, control de cámara.</p>
+						<p class="p-espec"><span>Vibración:</span> Si</p>
+						<p class="p-espec"><span>Resistencia al agua:</span> no apto para natación, buceo o ducha.</p>
+					</div>
+					<div class="col-md-4">
+						<h5 class="h5-espec">PANTALLA</h5>
+						<p class="p-espec p3">Tamaño 0.49”  |  Tipo OLED</p>
+						<h5 class="h5-espec">CONECTIVIDAD</h5>
+						<p class="p-espec p3">Bluetooth 4.0 Sync</p>
+						<h5 class="h5-espec">COLORES</h5>
+						<p class="p-espec">Azul, Naranja, Púrpura, Negro, Celeste</p>
+						<img src="images/colores.png" alt="">
+					</div>
+					<div class="col-md-4">
+						<h5 class="h5-espec">OTRAS ESPECIFICACIONES</h5>
+						<p class="p-espec"><span>Material</span><br>Dispositivo: Plástico  |  Malla: Silicona de alta calidad</p>
+						<p class="p-espec"><span>Medida</span><br>Dispositivo: 41.6*20*12.8mm  |  Malla: 250mm</p>
+						<p class="p-espec"><span>Peso</span> 27g</p>
+						<p class="p-espec"><span>Diámetro máximo de muñeca:</span> 22.5 mm</p>
+						<p class="p-espec"><span>Batería</span> Li-polymer – 60mAh  |  <span>Carga rápida</span> en 1 hora.</p>
+						<p class="p-espec"><span>Tiempo de StandBy:</span> 5-10 days</p>
+						<p class="p-espec"><span>Almacenamiento de datos:</span> 7 días</p>
+					</div>
+				</div>
+
+				<div class="contain">
+					<div class="col-md-12">
+						<h4 class="titu-fit xtrapad">EXO Smart FitBAND e12</h4>
+					</div>
+
+					<div class="col-md-4">
+						<h5 class="h5-espec">ESPECIFICACIONES</h5>
+						<p class="p-espec"><span>Modelo:</span> EXO Smart FitBAND e12</p>
+						<p class="p-espec"><span>Compatible con:</span> IOS 7.1 o posterior  |  Android 4.4 o posterior</p>
+						<p class="p-espec"><span>Funciones:</span> Botón Antipánico, RTC, monitor de ritmo cardíaco, podómetro de pasos, calorías quemadas, tracking de distancia, monitor de sueño, alerta de llamadas y redes sociales, alarma, anti-pérdida, control de cámara.</p>
+						<p class="p-espec"><span>Vibración:</span> Si</p>
+						<p class="p-espec"><span>Resistencia al agua:</span> no apto para natación, buceo o ducha.</p>
+					</div>
+					<div class="col-md-4">
+						<h5 class="h5-espec">PANTALLA</h5>
+						<p class="p-espec p3">Tamaño 0.49”  |  Tipo OLED</p>
+						<h5 class="h5-espec">CONECTIVIDAD</h5>
+						<p class="p-espec p3">Bluetooth 4.0 Sync</p>
+						<h5 class="h5-espec">COLORES</h5>
+						<p class="p-espec">Azul, Anaranjado, Violeta, Negro, Verde</p>
+						<img src="images/colores2.png" alt="">
+					</div>
+					<div class="col-md-4">
+						<h5 class="h5-espec">OTRAS ESPECIFICACIONES</h5>
+						<p class="p-espec"><span>Material</span><br>Dispositivo: Plástico  |  Malla: Silicona de alta calidad</p>
+						<p class="p-espec"><span>Medida</span><br>Dispositivo: 40.9*20*12.5mm |  Malla: 250mm</p>
+						<p class="p-espec"><span>Peso</span> 25g</p>
+						<p class="p-espec"><span>Diámetro máximo de muñeca:</span> 22.5 mm</p>
+						<p class="p-espec"><span>Batería</span> Li-polymer – 70mAh  |  <span>Carga rápida</span> en 90 min.</p>
+						<p class="p-espec"><span>Tiempo de StandBy:</span> 7-10 days</p>
+						<p class="p-espec"><span>Almacenamiento de datos:</span> 7 días</p>
+					</div>
+				</div>
+			</section>
+
+			<section id="donde" class="row">
+				<div class="contain">
+					<h2 class="espec-titu">Donde Comprarla</h2>
+					<div class="col-md-4 text-center donde-box animatedParent">
+						<img class="donde animated bounceInLeft slow" src="images/garbarino.png" alt="">
+						<img class="donde animated bounceInLeft slow" src="images/tpc.png" alt="">
+					</div>
+					<div class="col-md-4 text-center donde-box animatedParent">
+						<img class="donde animated bounceInLeft slow" src="images/compumundo.png" alt="">
+						<img class="donde animated bounceInLeft slow" src="images/hendel.png" alt="">
+					</div>
+					<div class="col-md-4 text-center donde-box animatedParent">
+						<img class="donde animated bounceInLeft slow" src="images/musimundo.png" alt="">
+						<img style="margin-top: 18px;" class="donde animated bounceInLeft slow" src="images/puntodigital.png" alt="">
+					</div>
+				</div>
+			</section>
+
+			<section id="contacto" class="row">
+				<div class="contain">
+					<div class="col-md-12">
+						<h2 class="contacto-titu">Contacto</h2>
+						<div class="col-md-2">
+
+						</div>
+						<div class="col-md-8">
+							<form id="contact-form" class="wpcf7-form" method="post" autocomplete="off">
+
+									<div class="exo-form">
+											<span class="wpcf7-form-control-wrap "><input type="text" placeholder="* NOMBRE:" class="input-contacto" size="40" value="" name="exoNombre" id="exo-nombre" ></span>
+											<span class="wpcf7-form-control-wrap "><input type="email" placeholder="* MAIL:" class="input-contacto2" size="40" value="" name="exoEmail" id="exo-email"></span>
+											<span class="wpcf7-form-control-wrap "><input type="tel" placeholder="* TEL:" class="input-contacto3" size="40" value="" name="exoTel" id="exo-tel"></span>
+											<span class="wpcf7-form-control-wrap "><textarea placeholder="* CONSULTA:" class="exo-textarea textarea-contacto" rows="10" cols="40" name="exoMensaje" id="exo-mensaje"></textarea></span>
+											<div class="g-recaptcha" data-sitekey="6LfS8g0UAAAAADg1j_afrz5NwbVj0XCejNLduI_M"></div>
+											<div class="captcha-error">
+
+											</div>
+											<input type="submit" class="enviar-btn  exo-submit" value="ENVIAR">
+											<div id="spinner" style="text-align:center;"><i class="fa fa-spinner fa-pulse fa-2x fa-fw"></i></div>
+									</div>
+							</form>
+								<div class="message-wrapper">
+										<div class="message">
+
+										</div>
+								</div>
+	            <div class="col-md-2">
+
+							</div>
+					</div>
+
+				</div>
+			</section>
+
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="contain">
+					<div class="row">
+						<div class="col-md-3 text-center">
+							<a class="info-footer" href="https://goo.gl/maps/QBkUmfx4Ewp" target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> Av. Chiclana 3.444</a>
+						</div>
+						<div class="col-md-3 text-center">
+							<p class="info-footer"><i aria-hidden="true" class="fa fa-phone"></i> 0810-1222-396</p>
+						</div>
+						<div class="col-md-3 text-center">
+							<a class="info-footer" href="mailto: hola@exo.com.ar;"><i class="fa fa-envelope-o" aria-hidden="true"></i> hola@exo.com.ar</a>
+						</div>
+						<div class="col-md-3 text-center">
+							<ul class="redes">
+								<li><a href="https://www.facebook.com/exo.oficial/" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a></li>
+								<li><a href="https://twitter.com/exoargentina" target="_blank"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a></li>
+								<li><a href="https://instagram.com/exo" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a></li>
+								<li><a href="https://www.youtube.com/c/exoaroficial" target="_blank"><i class="fa fa-youtube-square fa-2x" aria-hidden="true"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/bootstrap.min.js.js"></script>
+			<script src="assets/js/jquery.magnific-popup.min.js"></script>
+    		<script src='assets/js/css3-animate-it.js'></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+			<!-- Form validation -->
+			<script type="text/javascript" src="scripts/jquery.validate.min.js"></script>
+			<script type="text/javascript" src="scripts/additional-methods.min.js"></script>
+			<script type="text/javascript" src="scripts/form-validate.js"></script>
+
+			<!-- menu mobile -->
+			<script>
+
+			  $('.box-shadow-menu').click(function() {
+					$('#menu-mobile').toggle();
+					return false;
+				});
+
+			  $('#menu-mobile ul li a').on("click", function(){
+				    $('#menu-mobile').slideUp();
+				});
+			</script>
+			<script>
+
+					$(window).scroll(function() {
+					    var scroll = $(window).scrollTop();
+
+					    if (scroll >= 300) {
+
+					        $("#header").css('position', 'fixed');
+					        $("#header").css('border-bottom', '5px solid #ee2e24');
+					    }else{
+					    	$("#header").css('border-bottom', 'none');
+					    	$("#header").css('position', 'relative');
+					    }
+					});
+			</script>
+		    <script type="text/javascript">
+	            $(document).ready(function() {
+	                $("#submit_btn").click(function() {
+
+	                    var proceed = true;
+	                    //simple validation at client's end
+	                    //loop through each field and we simply change border color to red for invalid fields
+	                    $("#contact_form input[required=true], #contact_form textarea[required=true]").each(function(){
+	                        $(this).css('border-color','');
+	                        if(!$.trim($(this).val())){ //if this field is empty
+	                            $(this).css('border-color','red'); //change border color to red
+	                            proceed = false; //set do not proceed flag
+	                        }
+	                        //check invalid email
+	                        var email_reg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+	                        if($(this).attr("type")=="email" && !email_reg.test($.trim($(this).val()))){
+	                            $(this).css('border-color','red'); //change border color to red
+	                            proceed = false; //set do not proceed flag
+	                        }
+	                    });
+
+	                    if(proceed) //everything looks good! proceed...
+	                    {
+	                        //get input field values data to be sent to server
+	                        post_data = {
+	                            'user_name'     : $('input[name=name]').val(),
+	                            'user_email'    : $('input[name=email]').val(),
+	                            'user_tel'    : $('input[name=tel]').val(),
+	                            'msg'           : $('textarea[name=message]').val()
+	                        };
+
+	                        //Ajax post data to server
+	                        $.post('contact_me.php', post_data, function(response){
+	                            if(response.type == 'error'){ //load json data from server and output message
+	                                output = '<div class="error">'+response.text+'</div>';
+	                            }else{
+	                                output = '<div class="success">'+response.text+'</div>';
+	                                //reset values in all input fields
+	                                $("#contact_form  input[required=true], #contact_form textarea[required=true]").val('');
+	                                $("#contact_form #contact_body").slideUp(); //hide form after success
+	                            }
+	                            $("#contact_form #contact_results").hide().html(output).slideDown();
+	                        }, 'json');
+	                    }
+	                });
+
+	                //reset previously set border colors and hide all message on .keyup()
+	                $("#contact_form  input[required=true], #contact_form textarea[required=true]").keyup(function() {
+	                    $(this).css('border-color','');
+	                    $("#result").slideUp();
+	                });
+	            });
+	        </script>
+	        <script>
+
+
+			</script>
+			<script>
+			  $(function() {
+			    $('a[href*="#"]:not([href="#"])').click(function() {
+			      if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+			        var target = $(this.hash);
+			        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+			        if (target.length) {
+			          $('html, body').animate({
+			            scrollTop: target.offset().top
+			          }, 1000);
+			          return false;
+			        }
+			      }
+			    });
+			  });
+			</script>
+	</body>
+</html>
